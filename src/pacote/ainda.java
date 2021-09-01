@@ -1,5 +1,8 @@
 package pacote;
 
 public class ainda {
-afs
+	public static void main(String[] args) {
+		
+		System.out.println("bom dia");
+	}
 }
