@@ -15,6 +15,7 @@ public class ainda {
 		  v = x + y;
 		  System.out.println("resultado é " + v);
 		  
+		  
 		  ler.close();
 		
 	}
