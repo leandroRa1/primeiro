@@ -13,7 +13,7 @@ public class ainda {
 		 System.out.println("proximo numero");
 		  y = ler.nextInt();
 		  v = x + y;
-		  System.out.println("resultado é " + v, x);
+		  System.out.println("resultado é " + v);
 		  
 		  
 		  ler.close();
